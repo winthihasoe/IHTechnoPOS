@@ -1,0 +1,1 @@
+import{r as f,j as c}from"./currencyStore-Dk9RVyyc.js";import{J as n}from"./JsBarcode-DwekVVut.js";const u=({value:s="123456789012",width:e=1.5,height:o=30,displayValue:t=!1})=>{const r=f.useRef(null);return f.useEffect(()=>{r.current&&n(r.current,s,{format:"CODE128",lineColor:"#000",width:e,height:o,displayValue:t})},[s,e,o,t]),c.jsx("svg",{ref:r})};export{u as default};

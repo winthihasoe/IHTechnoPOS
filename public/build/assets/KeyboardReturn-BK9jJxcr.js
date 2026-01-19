@@ -1,0 +1,1 @@
+import{j as o}from"./currencyStore-Dk9RVyyc.js";import{c as r}from"./createSvgIcon-B7q9zImx.js";const a=r(o.jsx("path",{d:"M19 7v4H5.83l3.58-3.59L8 6l-6 6 6 6 1.41-1.41L5.83 13H21V7z"}));export{a as K};

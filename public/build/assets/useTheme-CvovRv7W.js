@@ -1,0 +1,1 @@
+import{r as n}from"./currencyStore-Dk9RVyyc.js";import{A as s,l as r,T as o,B as u}from"./memoTheme-BxRvtGIq.js";function m(e){return Object.keys(e).length===0}function a(e=null){const t=n.useContext(s);return!t||m(t)?e:t}const c=r();function h(e=c){return a(e)}function i(){const e=h(u);return e[o]||e}export{a,h as b,i as u};
