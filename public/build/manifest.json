@@ -1803,13 +1803,13 @@
     ]
   },
   "resources/css/app.css": {
-    "file": "assets/app-BNFiB_CO.js",
+    "file": "assets/app-CDk-Xqy5.js",
     "name": "app",
     "src": "resources/css/app.css",
     "isEntry": true,
     "isDynamicEntry": true,
     "css": [
-      "assets/app-QBeum5iv.css"
+      "assets/app-gEH9T9fB.css"
     ]
   },
   "resources/js/Pages/Auth/ConfirmPassword.jsx": {
@@ -5452,7 +5452,7 @@
     ]
   },
   "resources/js/Pages/POS-Offline/main.jsx": {
-    "file": "assets/main-MgvVdfWF.js",
+    "file": "assets/main-Clbgyupj.js",
     "name": "main",
     "src": "resources/js/Pages/POS-Offline/main.jsx",
     "isEntry": true,
@@ -7712,7 +7712,7 @@
     ]
   },
   "resources/js/Pages/Purchase/PurchaseForm/AddToPurchase.jsx": {
-    "file": "assets/AddToPurchase-ltylcCcZ.js",
+    "file": "assets/AddToPurchase-Sm_ytFz-.js",
     "name": "AddToPurchase",
     "src": "resources/js/Pages/Purchase/PurchaseForm/AddToPurchase.jsx",
     "isDynamicEntry": true,
@@ -7767,7 +7767,7 @@
     ]
   },
   "resources/js/Pages/Purchase/PurchaseForm/ProductSearch.jsx": {
-    "file": "assets/ProductSearch-aXRNopOk.js",
+    "file": "assets/ProductSearch-Dx8m2smh.js",
     "name": "ProductSearch",
     "src": "resources/js/Pages/Purchase/PurchaseForm/ProductSearch.jsx",
     "isDynamicEntry": true,
@@ -7829,7 +7829,7 @@
     ]
   },
   "resources/js/Pages/Purchase/PurchaseForm/PurchaseAppBar.jsx": {
-    "file": "assets/PurchaseAppBar-BnKJ4fYs.js",
+    "file": "assets/PurchaseAppBar-BUSY4rOa.js",
     "name": "PurchaseAppBar",
     "src": "resources/js/Pages/Purchase/PurchaseForm/PurchaseAppBar.jsx",
     "isDynamicEntry": true,
@@ -7861,7 +7861,7 @@
     ]
   },
   "resources/js/Pages/Purchase/PurchaseForm/PurchaseCartItems.jsx": {
-    "file": "assets/PurchaseCartItems-y7WARG71.js",
+    "file": "assets/PurchaseCartItems-Co0Vu950.js",
     "name": "PurchaseCartItems",
     "src": "resources/js/Pages/Purchase/PurchaseForm/PurchaseCartItems.jsx",
     "isDynamicEntry": true,
@@ -7894,7 +7894,7 @@
     ]
   },
   "resources/js/Pages/Purchase/PurchaseForm/PurchaseForm.jsx": {
-    "file": "assets/PurchaseForm-rE0zUDJF.js",
+    "file": "assets/PurchaseForm-CVyJP3sG.js",
     "name": "PurchaseForm",
     "src": "resources/js/Pages/Purchase/PurchaseForm/PurchaseForm.jsx",
     "isDynamicEntry": true,
@@ -10193,7 +10193,7 @@
     ]
   },
   "resources/js/app.jsx": {
-    "file": "assets/app-Bq57AKB6.js",
+    "file": "assets/app-5dnBcRp6.js",
     "name": "app",
     "src": "resources/js/app.jsx",
     "isEntry": true,
